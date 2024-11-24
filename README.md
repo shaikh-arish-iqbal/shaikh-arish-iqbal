@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @shaikh-arish-iqbal
-- 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning Formal Language and Automata Theory
-- 📫 How to reach me ShaikhArishIqbal@gmail.com
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: too long...
+👋 About Me
+Hi, I'm Shaikh Arish!
+🎓 Computer Science and Engineering Student
+📍 Based in Aurangabad, Maharashtra, India
 
-<!---
-shaikh-arish-iqbal/shaikh-arish-iqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Skills & Interests
+Programming: Python, Java, C++
+Areas of Study: DBMS, Operating Systems, Computer Architecture, Computer Networks, and DevOps
+Interests: Software Development, System Design, and Cloud Computing
+
+🌱 Currently Learning
+Exploring DevOps tools like Docker, Kubernetes, and CI/CD pipelines
+Enhancing knowledge in Distributed Systems and Cloud Platforms
+
+🎯 Goals
+Build and contribute to open-source projects
+Gain expertise in full-stack development and automation tools
+
+📫 Let's Connect
+📧 Email: shaikharishjnec@gmail.com
