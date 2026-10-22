@@ -1,39 +1,24 @@
-# 👋 Hi, I'm Shaikh Arish 
+# 👋 Hi, I'm Arish Shaikh
 
-💻 **Full Stack Developer | 📱 React Native | ⚙️ Node.js**
+💻 **Full Stack Developer | 📊 Data Science | 🤖 AI/ML**
 
-I'm a Full Stack Developer focused on building mobile applications, backend services, and API integrations. I enjoy solving technical problems, improving application performance, and exploring emerging technologies.
+Building mobile applications, backend services, and exploring data-driven solutions.
 
 📍 Maharashtra, India 🇮🇳
 
-### 🛠️ Technical Skills
-
+### 🛠️ Tech Stack
 - 💻 **Languages:** JavaScript, Python, Java, SQL
-- 📱 **Frontend & Mobile:** React, React Native, Expo
-- ⚙️ **Backend:** Node.js, Express.js, REST APIs
+- 🌐 **Development:** React, React Native, Expo, Node.js, Express.js
 - 🗄️ **Databases:** MongoDB, PostgreSQL
-- 🔧 **Tools & Platforms:** Git, GitHub, Firebase, Docker
+- 📊 **Data Science:** NumPy, Pandas, Matplotlib, Seaborn
+- 🤖 **Machine Learning:** Scikit-learn, EDA, Regression, Classification
+- 🔧 **Tools:** Git, GitHub, Firebase, Docker
 
-### 🎯 Areas of Interest
+### 🎯 Interests
+📱 Mobile Development • ⚙️ Backend Engineering • 📈 Data Analysis • 🧠 Machine Learning • ☁️ Cloud & DevOps
 
-- 🚀 Full Stack & Mobile Application Development
-- 🔌 Backend Architecture & API Design
-- 🤖 Data Science & Machine Learning
-- ☁️ Cloud Computing & DevOps
-- 🧩 Problem Solving & Software Engineering
+### 📚 Currently Learning
+Deep Learning, Neural Networks, and scalable application architecture.
 
-### 📚 Currently Exploring
-
-- 🐍 Data Science and Machine Learning
-- ☁️ Cloud technologies and DevOps practices
-- 🏗️ Scalable application architecture and system design
-
-### 📂 Projects
-
-Explore my repositories to see what I'm building, experimenting with, and learning.
-
-### 🤝 Connect With Me
-
-- 📧 **Email:** [shaikharishjnec@gmail.com](mailto:shaikharishjnec@gmail.com)
-- 🐙 **GitHub:** [@shaikh-arish-iqbal](https://github.com/shaikh-arish-iqbal)
-
+### 🤝 Connect
+📧 [Email](mailto:shaikharishjnec@gmail.com) · 🐙 [GitHub](https://github.com/shaikh-arish-iqbal)
