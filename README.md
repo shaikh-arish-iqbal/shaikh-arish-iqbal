@@ -15,10 +15,7 @@ Building mobile applications, backend services, and exploring data-driven soluti
 - 🔧 **Tools:** Git, GitHub, Firebase, Docker
 
 ### 🎯 Interests
-📱 Mobile Development • ⚙️ Backend Engineering • 📈 Data Analysis • 🧠 Machine Learning • ☁️ Cloud & DevOps
-
-### 📚 Currently Learning
-Deep Learning, Neural Networks, and scalable application architecture.
+📱 Mobile Development • ⚙️ Backend Engineering • 📈 Data Analysis • 🧠 Machine Learning
 
 ### 🤝 Connect
 📧 [Email](mailto:shaikharishjnec@gmail.com) · 🐙 [GitHub](https://github.com/shaikh-arish-iqbal)
