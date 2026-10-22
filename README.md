@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arish Shaikh
+# 👋 Hi, I'm Shaikh Arish 
 
 💻 **Full Stack Developer | 📱 React Native | ⚙️ Node.js**
 
